@@ -13,11 +13,9 @@
 <a href="[https://linkedin.com/in/carol42](https://www.linkedin.com/in/naser-rezayi-89774723b/)">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://twitter.com/carol42helo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
+
 </a>
-</a>
-<a href="mailto:carol42.helo@gmail.com">
+<a href="mailto:naser.rezayi.nr@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
