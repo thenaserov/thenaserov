@@ -11,7 +11,7 @@
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TheNaserov" height="22px">
 </a>
 <a href="[https://linkedin.com/in/carol42](https://www.linkedin.com/in/naser-rezayi-89774723b/)">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/TheNaserov&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 
 </a>
