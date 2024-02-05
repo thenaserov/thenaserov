@@ -97,7 +97,7 @@
     </div>
 </details> -->
 
-<img alt="github contribution snake animation" src="[https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg](https://github.com/thenaserov/thenaserov/blob/main/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg)">
+<img alt="github contribution snake animation" src="https://github.com/thenaserov/thenaserov/blob/main/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg">
 
 <div align="center">
     <a href="https://git.io/typing-svg">
