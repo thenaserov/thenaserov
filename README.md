@@ -22,12 +22,14 @@
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
 <code> <img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code> <img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEX////1+v2m0OuizulEotfL4/IPkdAAj9DD3/FfsN1Uq9vo9PoXk9HZ7feXyeeBv+IdmdO63O8Aic3h8flptd41ntbr9PpSrNuNxeWy1+0AjM4ZldJ3ueGs1OyLxOUAh8yUs6DqAAAA/0lEQVR4AWIgFQAKJwsECGEYCF6RDRLc/f+/vDY9lxI0zFCvUieC558IQeDmIShyCjGQuHhKzJQ5hNwIhUMowQyov7yqWQflf4WmJS2g6/8VUFatqwiVENrBUURFmkGKGH8KnYES4PQHn4gfQYWrADH67wJmKZwIv4tQnfBlHEtrNB+CPwvXn9MFRljfedrhMUIbiZu9Cbt8ZClXmSJA7StvpFgsNgvACJb5tYhWxgCBzWKdodj2J8+EM0qbDiR29boSmUHoYpuuHRMY7D+W8mxwEarHoIQ7E1DfF3hCczd9jWw3U2B/2Y5vbJVjM88+8f+sUuUnqRFSxz7pL6dxBfH2D77vHaYdAAAAAElFTkSuQmCC" /></code>
+
+
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
