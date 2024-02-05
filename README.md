@@ -53,7 +53,9 @@
 </a>
 </br></br>
 
+<!--
 <h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+<!--
 </br>
 <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
@@ -61,12 +63,14 @@
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
-
+-->
+<!--
 <h3>:headphones: Albums I've listened to the most this week</h3>
-
+-->
 <!-- lastfm -->
+<!--
 <p align="center"><a href="https://www.last.fm/music/Blind+Guardian/Beyond+the+Red+Mirror"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Twist+in+the+Myth"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Sempiternal+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb2d860a26f50afdce45f482dd754b1c.png" title="Bring Me the Horizon - Sempiternal (Expanded Edition)"></a> <a href="https://www.last.fm/music/Rhapsody/Symphony+of+Enchanted+Lands"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b4edbfb5c5b461ba490183c38cc6981.png" title="Rhapsody - Symphony of Enchanted Lands"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Darkside"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f87a5000b1a0465a03dc3b058bbb6314.jpg" title="Bring Me the Horizon - Darkside"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/LosT"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b702652626b3b56054cd809617b670f.jpg" title="Bring Me the Horizon - LosT"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Parasite+Eve"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3faddb2176328caac9558973a9d54eae.jpg" title="Bring Me the Horizon - Parasite Eve"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/POST+HUMAN:+SURVIVAL+HORROR"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f729bad90a3a7ae02c78fae2ab755d00.jpg" title="Bring Me the Horizon - POST HUMAN: SURVIVAL HORROR"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/sTraNgeRs"><img src="https://lastfm.freetls.fastly.net/i/u/64s/82d100fb9d099f61c215e929fa82992c.jpg" title="Bring Me the Horizon - sTraNgeRs"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/That%27s+the+Spirit"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9923e6f2964b67ad79bb14d4ba16db70.jpg" title="Bring Me the Horizon - That's the Spirit"></a> <a href="https://www.last.fm/music/Masterplan/Aeronautics+(Deluxe+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a1b91f369033ae13d812404366cc8d60.jpg" title="Masterplan - Aeronautics (Deluxe Edition)"></a> </p>
-
+-->
 </br>
 <sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
 
