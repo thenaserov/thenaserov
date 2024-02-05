@@ -89,46 +89,6 @@
 </details>
 
 
-<details>
-    <summary>My GitHub stats</summary>
-    <div>
-        <a href="https://github.com/Cthenaserov">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-    </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
-    </a>
-    </br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
-    </a>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
-    </a>-->
-    </br>
-    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
-</details>
-    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
-    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
-
-<h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
-
 <!-- <details>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
