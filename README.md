@@ -45,8 +45,7 @@
 </details>
 
 <h2>:books: My personal portfolio</h2>
-<a href="https://github.com/Carol42/portfolio">
-    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+<a href="https://thenaserov.github.io">
 </a>
 </br>
 <a href="https://portfolio-carol42.vercel.app/">
