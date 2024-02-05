@@ -16,7 +16,7 @@
 
 </a>
 <a href="mailto:naser.rezayi.nr@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=naser.rezayi.nr@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
