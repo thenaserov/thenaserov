@@ -12,7 +12,7 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
+<a href="https://github.com/thenaserov">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
 </a>
 <a href="https://codepen.io/Carol42">
