@@ -72,7 +72,6 @@
 <p align="center"><a href="https://www.last.fm/music/Blind+Guardian/Beyond+the+Red+Mirror"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0898c36cc3a948f7c89bacda32ce76eb.png" title="Blind Guardian - Beyond the Red Mirror"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Twist+in+the+Myth"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Sempiternal+(Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb2d860a26f50afdce45f482dd754b1c.png" title="Bring Me the Horizon - Sempiternal (Expanded Edition)"></a> <a href="https://www.last.fm/music/Rhapsody/Symphony+of+Enchanted+Lands"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b4edbfb5c5b461ba490183c38cc6981.png" title="Rhapsody - Symphony of Enchanted Lands"></a> <a href="https://www.last.fm/music/Avantasia/Moonglow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b71f7b878f48a82421767cfbe76e525f.jpg" title="Avantasia - Moonglow"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Darkside"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f87a5000b1a0465a03dc3b058bbb6314.jpg" title="Bring Me the Horizon - Darkside"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/LosT"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6b702652626b3b56054cd809617b670f.jpg" title="Bring Me the Horizon - LosT"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Parasite+Eve"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3faddb2176328caac9558973a9d54eae.jpg" title="Bring Me the Horizon - Parasite Eve"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/POST+HUMAN:+SURVIVAL+HORROR"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f729bad90a3a7ae02c78fae2ab755d00.jpg" title="Bring Me the Horizon - POST HUMAN: SURVIVAL HORROR"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/sTraNgeRs"><img src="https://lastfm.freetls.fastly.net/i/u/64s/82d100fb9d099f61c215e929fa82992c.jpg" title="Bring Me the Horizon - sTraNgeRs"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/That%27s+the+Spirit"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9923e6f2964b67ad79bb14d4ba16db70.jpg" title="Bring Me the Horizon - That's the Spirit"></a> <a href="https://www.last.fm/music/Masterplan/Aeronautics+(Deluxe+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a1b91f369033ae13d812404366cc8d60.jpg" title="Masterplan - Aeronautics (Deluxe Edition)"></a> </p>
 -->
 </br>
-<sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
@@ -89,35 +88,11 @@
     </a>
 </details>
 
-<h2>:octocat: My GitHub Activity</h2>
-
-:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/Carol42.gpg)
-
-<h3>:bar_chart: My GitHub Stats</h3>
-<details>
-<summary>My recent activity</summary>
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-4. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-5. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-6. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-7. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-8. ⬆️ Pushed 1 commit(s) to [Carol42/memes](https://github.com/Carol42/memes)<br>
-9. ⬆️ Pushed 2 commit(s) to [Carol42/Carol42](https://github.com/Carol42/Carol42)<br>
-10. ⬆️ Pushed 1 commit(s) to [Carol42/random-cat-gifs](https://github.com/Carol42/random-cat-gifs)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 4th, 2024, 9:58:37 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-</details>
 
 <details>
     <summary>My GitHub stats</summary>
     <div>
-        <a href="https://github.com/Carol42">
+        <a href="https://github.com/Cthenaserov">
             <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
         </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
