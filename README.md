@@ -48,7 +48,7 @@
 <a href="https://thenaserov.github.io">
 </a>
 </br>
-<a href="https://portfolio-carol42.vercel.app/">
+<a href="https://thenaserov.github.io">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </br></br>
