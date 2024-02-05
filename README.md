@@ -5,20 +5,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Naser;He/him;Software+Engineer;CPP/Qt+Dev;Cat+Lover+:3;Heavy+Metal+Lover+%3C3;function+findQuestion(42)" alt="Software Engineer, Qt/C++ developer, Heavy Metal lover"></a>
 </div>
 
-<table align="right">
- <tr><td><a href="https://github.com/TheNaserov/TheNaserov/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/TheNaserov/TheNaserov/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
-</table>
-
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/thenaserov">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TheNaserov" height="22px">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
-</a>
-<a href="https://linkedin.com/in/carol42">
+<a href="[https://linkedin.com/in/carol42](https://www.linkedin.com/in/naser-rezayi-89774723b/)">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://twitter.com/carol42helo/">
