@@ -70,13 +70,13 @@
 </details>
 
 
-<details>
-    <summary>Profile visitors</summary>
+<!-- <details> -->
+<!--    <summary>Profile visitors</summary> -->
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
         <img alt="visitors counter" src="https://profile-counter.glitch.me/thenaserov/count.svg">
     </div>
-</details>
+<!-- </details> -->
 
 <div align="center">
     <a href="https://git.io/typing-svg">
