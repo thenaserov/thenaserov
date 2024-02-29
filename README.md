@@ -69,7 +69,7 @@
     </a>
 </details>
 
-<details>
+<detailso open>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
