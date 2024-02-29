@@ -70,15 +70,13 @@
 </details>
 
 
-<!-- <details>
+<details>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/thenaserov/count.svg">
     </div>
-</details> -->
-
-<img alt="github contribution snake animation" src="https://github.com/thenaserov/thenaserov/blob/main/203324235-72529db4-d567-40fe-abdf-263e56c4689f.svg">
+</details>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
