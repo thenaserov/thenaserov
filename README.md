@@ -44,7 +44,7 @@
 <img src="https://cat-gifs.cyclic.app">
 </details>
 
-<h2>:books: My personal portfolio</h2>
+<h2>:books: My Portfolio WebSite</h2>
 <a href="https://thenaserov.github.io">
 </a>
 </br>
