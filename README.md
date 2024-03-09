@@ -54,21 +54,6 @@
 </br></br>
 </br>
 
-<h2>:thought_balloon: Quote of the day</h2>
-<details open>
-    <summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
-<h2>:zany_face: Joke of the day</h2>
-<details>
-    <summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
-
 <detailso open>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
