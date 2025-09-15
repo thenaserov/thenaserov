@@ -10,7 +10,7 @@
 <a href="https://github.com/thenaserov">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TheNaserov" height="22px">
 </a>
-<a href="https://www.linkedin.com/in/naser-rezayi-89774723b/">
+<a href="https://www.linkedin.com/in/naser-rezaei-1a4111382/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/TheNaserov&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 
